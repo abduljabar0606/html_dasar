@@ -1,5 +1,5 @@
 body {
-    background-color: #dfcbb3;
+    background-color: #e2b174;
     color: #444444;
     font-family: "Open Sans", Arial;
     font-size: 17px;
@@ -42,7 +42,7 @@ body {
   }
   
   .content { 
-    background-color: #ffffff; 
+    background-color: #e9ceab; 
     border-radius: 50px;
   }
   
@@ -70,6 +70,9 @@ body {
   .content1 {
     padding: 15%;
     font-size: 30px;
+  }
+
+  .fotoo{
     border-radius: 50%;
   }
   
